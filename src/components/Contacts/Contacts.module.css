@@ -3,8 +3,7 @@
 .container {
 	position: relative;
 	display: flex;
-	align-items: center;
-	justify-content: space-between;
+	align-items: left;
 	margin-top: 49px;
 	z-index: 1;
 	margin-left: 10%;
@@ -12,8 +11,8 @@
 }
 
 .title {
-	font-size: 72px;
-	font-weight: 900;
+	font-size: 47px;
+	font-weight: 700;
 	margin-bottom: 33px;
 	font-family: var(--font-poppins);
 	background: linear-gradient(90deg, rgba(255, 255, 255, 1) 70%, rgba(255, 255, 255, 0) 120%);
@@ -22,9 +21,8 @@
 }
 
 .description {
-	font-size: 30px;
+	font-size: 21px;
 	color: var(--color-text);
-	font-size: 35px;
 	font-family: var(--font-poppins);
 }
 
@@ -37,7 +35,7 @@
 	position: absolute;
 	width: 40%;
 	min-width: 350px;
-	min-height: 400px;
+	min-height: 200px;
 	left: 70%;
 	border-radius: 764px;
 	background: rgba(25, 55, 109, 0.7);

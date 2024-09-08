@@ -20,7 +20,7 @@
 }
 
 .title {
-	font-size: 50px;
+	font-size: 47px;
 	font-weight: 700;
 	margin-bottom: 33px;
 	font-family: var(--font-poppins);
@@ -32,16 +32,16 @@
 .skillContainer {
 	width: 100%;
   align-items: center;
-	padding: 50px 0px;
+	padding: 40px 0px;
 }
 
 .skillItems {
 	/* background-color: var(--color-primary); */
 	background: linear-gradient(120deg, var(--color-primary) 20%, rgba(255, 255, 255, 0) 120%);
 	color: var(--color-text);
-	width: 250px;
+	width: 200px;
 	border-radius: 5px;
-	font-size: 32px;
+	font-size: 21px;
 	padding-top: 15px;
 	text-align: center;
 }

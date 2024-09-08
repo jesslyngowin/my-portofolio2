@@ -17,7 +17,7 @@ export const Projects = () => {
 								<div key={id} className={`${styles.projectsItem} card`}>
 									<img src={getImageUrl(project.imageSrc)} className={`${styles.projectImg} card-img-top`} />
 									<div className={`${styles.projectDetail} card-body`}>
-										<h3 className="card-title">{project.title}</h3>
+										<h4 className="card-title">{project.title}</h4>
 										<p className="card-text">{project.role}</p>
 										<a href={project.link} className={`${styles.viewBtn} btn btn-primary`}>View more</a>
 									</div>
