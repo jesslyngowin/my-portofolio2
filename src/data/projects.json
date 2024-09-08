@@ -1,0 +1,37 @@
+[
+	{
+		"id": 1,
+		"title": "Sobat Laundry",
+		"imageSrc": "projects/sobatlaundry.png", 
+		"role": "Front-end Developer",
+		"link": "https://github.com/althaftaqiyyah/SobatLaundry"
+	},
+	{
+		"id": 2,
+		"title": "Punny Pals",
+		"imageSrc": "projects/punnypals.png", 
+		"role": "UI Designer",
+		"link": "https://www.figma.com/design/JWxger1S2q4yi9cOJJi588/PunnyPals?node-id=0-1"
+	},
+	{
+		"id": 3,
+		"title": "Hero Green",
+		"imageSrc": "projects/herogreen.png", 
+		"role": "UI Designer",
+		"link": "https://www.figma.com/design/Rs25xdREECfuSRiX9SZzYq/Desain?node-id=5-5649"
+	},
+	{
+		"id": 4,
+		"title": "Hungry Monkey",
+		"imageSrc": "projects/hungrymonkey.png",
+		"role": "Front-end Developer",
+		"link": "https://github.com/jesslyngowin/hungrymonkeys"
+	},
+	{
+		"id": 5,
+		"title": "Sistem Rekomendasi Jurusan",
+		"imageSrc": "projects/recs-sys.png", 
+		"role": "Front-end Developer",
+		"link": "https://github.com/jesslyngowin/frontend-reccomendation-sys"
+	}
+]
