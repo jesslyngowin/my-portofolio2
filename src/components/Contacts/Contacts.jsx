@@ -34,7 +34,6 @@ export const Contacts = () => {
         </div>
       </div>
 
-			<div className={styles.bottomBlur}/>
     </footer>
   );
 };

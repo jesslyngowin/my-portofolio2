@@ -22,8 +22,6 @@ export const AboutMe = () => {
 
 				<img src={getImageUrl("profile/frontProfile.png")} className={`${styles.profileImg} rounded`}/>
 
-				<div className={styles.topBlur}/>
-				{/* <div className={styles.bottomBlur}/> */}
 			</section>
 
 			

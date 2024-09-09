@@ -52,7 +52,13 @@
 
 @media screen and (max-width: 830px) {
 	.skillItems {
-		min-width: 200px;
-		width: 210px;
+		width: 200px;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.skillItems {
+		width: 120px;
+		font-size: 15px;
 	}
 }

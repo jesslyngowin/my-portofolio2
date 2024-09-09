@@ -31,17 +31,6 @@
 	padding-bottom: 30px;
 }
 
-.bottomBlur {
-	position: absolute;
-	width: 40%;
-	min-width: 350px;
-	min-height: 200px;
-	left: 70%;
-	border-radius: 764px;
-	background: rgba(25, 55, 109, 0.7);
-	filter: blur(200px);
-	z-index: 0;
-}
 
 @media screen and (max-width: 830px) {
   .container {

@@ -26,8 +26,7 @@ export const Projects = () => {
 
 					</div>
 			</div>
-
-      <div className={styles.bottomBlur}/>
+			
 		</section>
 
 	);
