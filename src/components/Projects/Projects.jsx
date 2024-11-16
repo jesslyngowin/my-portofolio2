@@ -19,7 +19,7 @@ export const Projects = () => {
 									<div className={`${styles.projectDetail} card-body`}>
 										<h4 className="card-title">{project.title}</h4>
 										<p className="card-text">{project.role}</p>
-										<a href={project.link} className={`${styles.viewBtn} btn btn-primary`}>View more</a>
+										<a href={project.link} target="_blank" className={`${styles.viewBtn} btn btn-primary`}>View more</a>
 									</div>
 								</div>)
 						})}

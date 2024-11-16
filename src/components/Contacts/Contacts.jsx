@@ -16,17 +16,17 @@ export const Contacts = () => {
         <div>
           <ul className={`${styles.links} d-flex justify-content-start gap-4 list-unstyled`}>
             <li className={`${styles.link} mx-3`}>
-              <a href="mailto:jesslyngwn@gmail.com">
+              <a href="mailto:jesslyngwn@gmail.com" >
                 <FontAwesomeIcon icon={faEnvelope} size="3x" /> 
               </a>
             </li>
             <li className={`${styles.link} mx-3`}>
-              <a href="https://id.linkedin.com/in/jesslyn-gowin-967415247">
+              <a href="https://id.linkedin.com/in/jesslyn-gowin-967415247" target="_blank">
                 <FontAwesomeIcon icon={faLinkedin} size="3x" />
               </a>
             </li>
             <li className={`${styles.link} mx-3`}>
-              <a href="https://www.github.com/jesslyngowin">
+              <a href="https://www.github.com/jesslyngowin" target="_blank">
                 <FontAwesomeIcon icon={faGithub} size="3x" />
               </a>
             </li>

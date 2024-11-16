@@ -11,16 +11,16 @@ export const AboutMe = () => {
 				<div className={styles.content}>
 					<h1 className={styles.title}>Hi, I'm Jesslyn.</h1>
 					<p className={styles.description}>
-						A front-end development enthusiast.<br></br>
+						Starfish & jellyfish are cool.<br></br>
 						Currently learning about web development.
 					</p>
 
-					<a href="https://id.linkedin.com/in/jesslyn-gowin-967415247" className={styles.connectBtn}>
+					<a href="https://id.linkedin.com/in/jesslyn-gowin-967415247" target="_blank" className={styles.connectBtn}>
 						Let's connect!
 					</a>
 				</div>
 
-				<img src={getImageUrl("profile/frontProfile.png")} className={`${styles.profileImg} rounded`}/>
+				<img src={getImageUrl("profile/frontProfile.png")} className={`${styles.profileImg} rounded-circle`}/>
 
 			</section>
 

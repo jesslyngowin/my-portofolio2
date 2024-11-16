@@ -7,7 +7,7 @@ export const Skills = () => {
 	return (
 		<section className={styles.container}>
 			<div className={styles.content}>
-				<h1 className={styles.title}>Skills</h1>
+				<h1 className={styles.title}>What I Use</h1>
 				<div className={`${styles.skillContainer} d-flex justify-content-between gap-5 flex-wrap`}>
 					{skills.map((skill, id) => {
 						return (

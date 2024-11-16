@@ -25,10 +25,26 @@
 	},
 	{
 		"id": 7,
-		"title": "Figma"
+		"title": "PHP"
 	},
 	{
 		"id": 8,
+		"title": "Laravel"
+	},
+	{
+		"id": 9,
+		"title": "MySQL"
+	},
+	{
+		"id": 10,
+		"title": "Figma"
+	},
+	{
+		"id": 11,
+		"title": "Git / Github"
+	},
+	{
+		"id": 12,
 		"title": "GCP"
 	}
 ]

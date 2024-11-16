@@ -33,5 +33,12 @@
 		"imageSrc": "projects/recs-sys.png", 
 		"role": "Front-end Developer",
 		"link": "https://github.com/jesslyngowin/frontend-reccomendation-sys"
+	},
+	{
+		"id": 6,
+		"title": "School Website",
+		"imageSrc": "projects/cpweb.png", 
+		"role": "Back-end Developer",
+		"link": "https://sekolahcausaprima.com"
 	}
 ]
