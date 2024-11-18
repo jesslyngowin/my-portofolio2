@@ -50,6 +50,11 @@
 	align-self: center;
 }
 
+.skillItems:hover {
+	background: linear-gradient(120deg, #fff 40%, rgba(255, 255, 255, 0) 120%);
+	color: var(--color-bg);
+}
+
 @media screen and (max-width: 830px) {
 	.skillItems {
 		width: 200px;
