@@ -1,50 +1,62 @@
 [
 	{
 		"id": 1,
+		"logo": "skills/html-logo.png", 
 		"title": "HTML"
 	},
 	{
 		"id": 2,
+		"logo": "skills/css-logo.png", 
 		"title": "CSS"
 	},	
 	{
 		"id": 3,
+		"logo": "skills/js-logo.png", 
 		"title": "JavaScript"
 	},
 	{
 		"id": 4,
+		"logo": "skills/py-logo.png", 
 		"title": "Python"
 	},
 	{
 		"id": 5,
+		"logo": "skills/bootstrap-logo.png", 
 		"title": "Bootstrap"
 	},
 	{
 		"id": 6,
+		"logo": "skills/react-logo.png", 
 		"title": "React.js"
 	},
 	{
 		"id": 7,
+		"logo": "skills/php-logo.png", 
 		"title": "PHP"
 	},
 	{
 		"id": 8,
+		"logo": "skills/laravel-logo.png", 
 		"title": "Laravel"
 	},
 	{
 		"id": 9,
+		"logo": "skills/mysql-logo.png", 
 		"title": "MySQL"
 	},
 	{
 		"id": 10,
+		"logo": "skills/figma-logo.png", 
 		"title": "Figma"
 	},
 	{
 		"id": 11,
+		"logo": "skills/git-logo.png", 
 		"title": "Git & Github"
 	},
 	{
 		"id": 12,
+		"logo": "skills/gcp-logo.png", 
 		"title": "GCP"
 	}
 ]

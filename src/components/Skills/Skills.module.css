@@ -19,6 +19,11 @@
 	z-index: 1;
 }
 
+.logo {
+	max-width: 50px;
+	padding-left: 15px;
+}
+
 .title {
 	font-size: 47px;
 	font-weight: 700;
@@ -43,11 +48,10 @@
 	border-radius: 5px;
 	font-size: 21px;
 	padding-top: 15px;
-	text-align: center;
+	/* text-align: center; */
 }
-
 .skillItems p {
-	align-self: center;
+	padding-left: 60px;
 }
 
 .skillItems:hover {
@@ -64,6 +68,13 @@
 @media screen and (max-width: 480px) {
 	.skillItems {
 		width: 120px;
-		font-size: 15px;
+		font-size: 13px;
+	}
+	.skillItems p {
+		padding-left: 50px;
+	}
+	.logo {
+		padding-top: 0px;
+		max-width: 40px;
 	}
 }
