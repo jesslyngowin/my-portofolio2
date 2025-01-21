@@ -11,8 +11,8 @@ export const AboutMe = () => {
 				<div className={styles.content}>
 					<h1 className={styles.title}>Hi, I'm Jesslyn.</h1>
 					<p className={styles.description}>
-						Starfish & jellyfish are cool.<br></br>
-						Currently learning about web development.
+						I have interest in web development, software engineering, and cloud computing.<br></br>
+						Sometimes I draw silly creatures.
 					</p>
 
 					<a href="https://id.linkedin.com/in/jesslyn-gowin-967415247" target="_blank" className={styles.connectBtn}>
