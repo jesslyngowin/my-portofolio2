@@ -32,7 +32,8 @@
 .description {
 	font-size: 21px;
 	font-family: var(--font-poppins);
-	margin-bottom: 52px;
+	margin-bottom: 50px;
+	padding-right: 7%;
 }
 
 .connectBtn {
