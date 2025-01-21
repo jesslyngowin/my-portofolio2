@@ -22,20 +22,13 @@
 	},
 	{
 		"id": 4,
-		"title": "Hungry Monkey",
-		"imageSrc": "projects/hungrymonkey.png",
-		"role": "Front-end Developer",
-		"link": "https://github.com/jesslyngowin/hungrymonkeys"
-	},
-	{
-		"id": 5,
 		"title": "Sistem Rekomendasi Jurusan",
 		"imageSrc": "projects/recs-sys.png", 
 		"role": "Front-end Developer",
 		"link": "https://github.com/jesslyngowin/frontend-reccomendation-sys"
 	},
 	{
-		"id": 6,
+		"id": 5,
 		"title": "School Website",
 		"imageSrc": "projects/cpweb.png", 
 		"role": "Full-stack Developer for admin panel",
