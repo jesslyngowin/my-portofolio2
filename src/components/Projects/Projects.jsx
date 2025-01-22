@@ -17,8 +17,21 @@ export const Projects = () => {
 								<div key={id} className={`${styles.projectsItem} card`}>
 									<img src={getImageUrl(project.imageSrc)} className={`${styles.projectImg} card-img-top`} />
 									<div className={`${styles.projectDetail} card-body`}>
-										<h4 className="card-title">{project.title}</h4>
-										<p className="card-text">{project.role}</p>
+										<h4 className={`${styles.projectsTitle} card-title`}>{project.title}</h4>
+										<p className="card-subtitle mb-2 text-light">{project.role}</p>
+
+										<div className={`${styles.tags}`}>
+											{project.tags.map((tag, index) => (
+												<span key={index} className={`${styles.tag} badge rounded-pill bg-light text-dark me-2`}>
+													#{tag}
+												</span>
+											))}
+										</div>
+
+										<div class="py-3">
+											<p>{project.desc}</p>
+										</div>
+
 										<a href={project.link} target="_blank" className={`${styles.viewBtn} btn btn-primary`}>View more</a>
 									</div>
 								</div>)

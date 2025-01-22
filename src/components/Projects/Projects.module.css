@@ -41,11 +41,18 @@
 	padding: 15px;
 	/* background-color: var(--color-primary); */
 	background: linear-gradient(150deg, var(--color-primary) 50%, rgba(255, 255, 255, 0) 100%);
-	
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.projectsItem:hover {
+  transform: scale(1.05);
 }
 
 .projectImg {
 	width: 100%;
+}
+.projectsTitle {
+  color: var(--color-dark);
+	font-weight: 600;
 }
 .projectDetail {
 	color: var(--color-text);

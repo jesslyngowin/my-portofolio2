@@ -4,6 +4,8 @@
 		"title": "Sobat Laundry",
 		"imageSrc": "projects/sobatlaundry.png", 
 		"role": "Front-end Developer",
+		"tags": ["college", "uiux", "webdev", "frontend"],
+		"desc": "A web-based platform for booking and managing laundry pickup and delivery services. User interface designed with Figma. Front-end built with HTML, CSS, and JavaScript.",
 		"link": "https://github.com/althaftaqiyyah/SobatLaundry"
 	},
 	{
@@ -11,6 +13,8 @@
 		"title": "Punny Pals",
 		"imageSrc": "projects/punnypals.png", 
 		"role": "UI Designer",
+		"tags": ["college", "uiux", "webdev"],
+		"desc": "A meme-sharing website exclusively for the IPB University community. User interface and logo designed with Figma.",
 		"link": "https://www.figma.com/design/JWxger1S2q4yi9cOJJi588/PunnyPals?node-id=0-1"
 	},
 	{
@@ -18,6 +22,8 @@
 		"title": "Hero Green",
 		"imageSrc": "projects/herogreen.png", 
 		"role": "UI Designer",
+		"tags": ["college", "uiux", "mobile"],
+		"desc": "An eco-friendly mobile app enabling users to dispose of organic waste and earn coupons in return. User interface and logo designed with Figma.",
 		"link": "https://www.figma.com/design/Rs25xdREECfuSRiX9SZzYq/Desain?node-id=5-5649"
 	},
 	{
@@ -25,13 +31,17 @@
 		"title": "Sistem Rekomendasi Jurusan",
 		"imageSrc": "projects/recs-sys.png", 
 		"role": "Front-end Developer",
+		"tags": ["college", "uiux", "webdev", "frontend"],
+		"desc": "A web app that provides tailored college major suggestions for FMIPA IPB students. Front-end built with HTML, CSS, JavaScript, and Bootstrap.",
 		"link": "https://github.com/jesslyngowin/frontend-reccomendation-sys"
 	},
 	{
 		"id": 5,
 		"title": "School Website",
 		"imageSrc": "projects/cpweb.png", 
-		"role": "Full-stack Developer for admin panel",
+		"role": "Full-stack Developer for Admin Panel",
+		"tags": ["intern", "uiux", "webdev", "fullstack"],
+		"desc": "An admin panel for the Causa Prima School website, built with PHP, Laravel, Filament, and MySQL, to manage and update content efficiently. User interface built with Figma.",
 		"link": "https://sekolahcausaprima.com"
 	}
 ]
