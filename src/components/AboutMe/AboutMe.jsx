@@ -12,9 +12,8 @@ export const AboutMe = () => {
 					<h1 className={styles.title}>Hi, I'm Jesslyn.</h1>
 					<div className={styles.description}>
 						<p>
-						I have interest in web development, software engineering, and cloud computing.<br></br>
-						Ngl, I have way too many interests<em>—sigh.</em> <br></br>
-						Sometimes I draw silly creatures.
+						I’m particularly interested in web development, software engineering, and cloud computing.<br></br>
+						Always excited to learn and grow in the world of tech
 					  </p>
 					</div>
 
